@@ -16,6 +16,9 @@ https://github.com/YERRAGUNA123/2/blob/583ede92d38d2c0e0f789e914c34f2f3f43b379d/
 description: its an opencv projects detects face and voice to give access to laptop =
 https://github.com/YERRAGUNA123/2/blob/aa3ddd13def76c9415a5318d652e6fd5136048cc/jarvis.py
 
+### Virtual keyboard
+desription : its done using opencv 
+https://github.com/YERRAGUNA123/2/blob/e7cc095a560675eba882be560ea3c9809b09cab5/virkeyboard.py
 
 
 
