@@ -51,6 +51,9 @@
 |( https://github.com/YERRAGUNA123/beginner-normal-projects-for-internships )|
 
 
+# Leetcode problems i solved
+|( https://github.com/YERRAGUNA123/1 )|
+
 
 
 
