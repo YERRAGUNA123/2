@@ -46,6 +46,10 @@
 | [description : its an leadscorer projeect usied both my frontend and webscraping skills ]|
 |( https://github.com/YERRAGUNA123/4 )|
 
+### frontend random quote generator projects 
+|[description : random quote  is generated and shareable in twitter ]|
+|( https://github.com/YERRAGUNA123/beginner-normal-projects-for-internships )|
+
 
 
 
