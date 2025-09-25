@@ -37,6 +37,12 @@
 |[description : its a game is an endless adventure game can be deployed with replacing or using open ai but i used Ollama offline ai ]|
 |( https://github.com/YERRAGUNA123/2/tree/cc2d10c5aa87f533caf1fc6b51303ade95335961/gamemaster )|
 
+# WEB DEV Projects
+### examination system
+|[description : its an examination system done using mongodb,reactjs]
+|( https://github.com/YERRAGUNA123/3/tree/main )|
+
+
 
 
 
