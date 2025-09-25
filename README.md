@@ -31,7 +31,10 @@
 # AIML Projects
 ### ai companion 
 |[descriptyion : it gives running commentary based on moods selected on our onscreen when working etc ]|
+|(https://github.com/YERRAGUNA123/2/blob/cc2d10c5aa87f533caf1fc6b51303ade95335961/llava_ai_companion.py)|
 
+### Dungeon master
+|[description : its a game is an endless adventure game can be deployed with replacing or using open ai but i used Ollama offline ai ]|
 |(https://github.com/YERRAGUNA123/2/tree/cc2d10c5aa87f533caf1fc6b51303ade95335961/gamemaster)|
 
 
