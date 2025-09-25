@@ -42,6 +42,12 @@
 |[description : its an examination system done using mongodb,reactjs]
 |( https://github.com/YERRAGUNA123/3/tree/main )|
 
+### Capreo lead scorer
+| [description : its an leadscorer projeect usied both my frontend and webscraping skills ]|
+|( https://github.com/YERRAGUNA123/4 )|
+
+
+
 
 
 
