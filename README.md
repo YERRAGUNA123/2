@@ -28,6 +28,13 @@
   |Final Version|
 |(https://github.com/YERRAGUNA123/2/blob/d2a4598e8ef7e04164a72521da84b8ff6c003a71/shadowbox%20final%20supervised.py)|
 
+# AIML Projects
+### ai companion 
+|[descriptyion : it gives running commentary based on moods selected on our onscreen when working etc ]|
+
+|(https://github.com/YERRAGUNA123/2/tree/cc2d10c5aa87f533caf1fc6b51303ade95335961/gamemaster)|
+
+
 
 
 
