@@ -4,7 +4,7 @@ description  its an automation testing practice project of saucedemo site  https
 
 # WebScraping Projects
 
-### Blog feed scrapper .py file ,  
+### Blog feed scrapper ,  
 description : is an scraping project in which it scraps jop names and description from job board sites  https://github.com/YERRAGUNA123/2/blob/4e08db2cb3bf92fdfb1a6e48fc2e9e3f18ed2f09/BlogFeedScraper.py
 
 # Opencv Projects
