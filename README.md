@@ -20,5 +20,12 @@
 ### voice assistant 
 | [description : opens files and websites with voice command . which were manually typed in the begining in runtime] (https://github.com/YERRAGUNA123/2/blob/69bf2f6c037cbf722fea12f46d90425747451e13/voice_assisstant.py)  |
 
+### Shadowboxing application
+| [description : its a shadoboxing application done using opencv its 1st version ]
+(https://github.com/YERRAGUNA123/2/blob/d2a4598e8ef7e04164a72521da84b8ff6c003a71/shadow%20box%20app.py) |
+second version 
+
+
+
 
 
